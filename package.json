@@ -1,8 +1,8 @@
 {
-    "name": "feSetUp",
+    "name": "fe-build-setup",
     "version": "0.0.1",
     "description": "Creating FE build setup to automate repetitive work like compiling pre-process CSS and JavaScript to concatenation &  minification, firing up a server for automatic browser reloading",
-    "author": "Vijay Jupalli",
+    "author": "Vijay kumar Jupalli",
     "private": true,
     "license": "UNLICENSED",
     "engines": {
